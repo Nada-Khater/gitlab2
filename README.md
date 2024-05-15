@@ -1,4 +1,4 @@
-# gitlab2
+# Git Lab 2
 
 ## Generate SSH Key and Connect it to our Github Account
 ![IMG-20231127-WA0009](https://github.com/Nada-Khater/gitlab2/assets/75952748/e8e97f15-e60a-4ded-b0f0-c02c14f2845b)
